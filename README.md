@@ -81,6 +81,8 @@ En los siguientes links puedes encontrar información detallada:
 
 7. Modelo de machine learning [Modelo_ML](https://github.com/andesp19/Proyecto-Final-Data-Science/tree/13555ce0194dd061fb159170486c822d3f5f6959/ML)
 
+## Link a video de youtube
+https://youtu.be/yl4d8oQjb9A
 
 ## Pagina earthshake Intellingence 
 En el siguiente link encontraras el sitio web de Earthshake Intelligence  https://sites.google.com/view/earthshake-intelligence/inicio?authuser=0
